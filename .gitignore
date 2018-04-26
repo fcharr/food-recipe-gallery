@@ -1,0 +1,11 @@
+/*.php
+
+/food-images/*
+/step-images/*
+
+!/food-images/food-image.png.php
+!/step-images/step-image.png.php
+
+!/index.php
+!/recipe.php
+!/recipes.php

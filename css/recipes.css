@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.add_recipe_div {display:none;}
+
+.recipes {white-space:nowrap;}
+.column {display:inline-block; vertical-align:top; margin-right:25px;}
+.page_links {margin-top:25px;}
+
+.add_recipe_div, .prompt_add_recipe_div {margin-top:25px;}
+.add_recipe_div {display:none;}
+
+#cook, #cooks_div, .cook_div {display:block; margin-bottom:25px;}
+#cook {margin-top: 25px;}
+
+#delete_all {margin-top:25px; margin-bottom: 25px;}

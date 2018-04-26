@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+div {background-color:transparent; display:inline-block;}
+
+input[value="save"][type="button"] {display:none;}
+
+.recipe_image_div {margin-bottom:25px; vertical-align:top;}
+
+.recipe_description_div {width:inherit; margin:0px 0px 0px 30px; text-align:left; vertical-align:top;}
+.recipe_description_div textarea {width: 500px; resize:vertical;}
+
+#top_ad, #side_ad {background-color: #FFA; text-align: center; border: solid 1px #000000;}
+#top_ad {display:block; width: 500px; line-height:60px; margin:0px 0px 15px 0px;}
+#side_ad {width:120px; line-height:400px; vertical-align: top; margin:0px 30px 0px 0px;}
+
+#add_ingredient_div {display:block; margin-top:15px; margin-bottom:5px;}
+.recipe_name {font-weight:bold; text-align:left; margin:0px 0px 0px 15px;}
+.ingredients {display:block; margin-top:15px;}
+.ingredient {display:block; font-weight:lighter; font-size:12px; text-align:left; margin-top:3px;}
+
+.step_images {display:block; margin:0px 0px 15px 0px;}
+
+.add_step_image_div {display:none;}
+.prompt_add_step_image_div {vertical-align:middle;}
+.step_instructions_div {width:250px; margin:0px 0px 0px 15px; vertical-align:top; white-space:normal;}
+.step_instructions_div textarea {width:250px; resize:vertical;}
+.step_instructions {display:block; margin-bottom:5px;}
+
+#cook {display:inline-block; margin-bottom:25px;}
+#cooks_div, .cook_div {display:block; margin-bottom:25px;}
+#publish_div {display:block;}
+
+label {font-weight:normal;}
+
+hr {margin: 0px 0px 30px 0px;}
